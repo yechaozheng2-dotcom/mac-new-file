@@ -2,7 +2,7 @@
 
 > Add a "New File" option to macOS Finder's right-click menu — create a blank text file instantly, ready to rename.
 
-<!-- Demo GIF (add after recording) -->
+![Demo](assets/demo.gif)
 
 ---
 

@@ -181,7 +181,7 @@ OSASCRIPT
 		<key>outputTypeIdentifier</key>
 		<string>com.apple.Automator.fileSystemObject</string>
 		<key>presentationMode</key>
-		<integer>11</integer>
+		<integer>15</integer>
 		<key>processesInput</key>
 		<integer>0</integer>
 		<key>serviceApplicationBundleID</key>

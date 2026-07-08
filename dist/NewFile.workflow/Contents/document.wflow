@@ -88,7 +88,7 @@ OSASCRIPT
 dir="${dir%/}"
 
 # 生成不重复的文件名
-base="未命名"
+base="untitled"
 ext=".txt"
 filepath="$dir/$base$ext"
 counter=2
@@ -177,9 +177,9 @@ OSASCRIPT
 		<key>applicationPaths</key>
 		<array/>
 		<key>inputTypeIdentifier</key>
-		<string>com.apple.Automator.nothing</string>
+		<string>com.apple.Automator.fileSystemObject</string>
 		<key>outputTypeIdentifier</key>
-		<string>com.apple.Automator.nothing</string>
+		<string>com.apple.Automator.fileSystemObject</string>
 		<key>presentationMode</key>
 		<integer>11</integer>
 		<key>processesInput</key>
@@ -189,9 +189,9 @@ OSASCRIPT
 		<key>serviceApplicationPath</key>
 		<string>/System/Library/CoreServices/Finder.app</string>
 		<key>serviceInputTypeIdentifier</key>
-		<string>com.apple.Automator.nothing</string>
+		<string>com.apple.Automator.fileSystemObject</string>
 		<key>serviceOutputTypeIdentifier</key>
-		<string>com.apple.Automator.nothing</string>
+		<string>com.apple.Automator.fileSystemObject</string>
 		<key>serviceProcessesInput</key>
 		<integer>0</integer>
 		<key>workflowTypeIdentifier</key>

@@ -27,7 +27,7 @@ OSASCRIPT
 dir="${dir%/}"
 
 # 生成不重复的文件名
-base="未命名"
+base="untitled"
 ext=".txt"
 filepath="$dir/$base$ext"
 counter=2

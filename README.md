@@ -12,7 +12,7 @@
 ### 方法一：一键脚本（推荐）· Script (recommended)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mac-new-file.git
+git clone https://github.com/yechaozheng2-dotcom/mac-new-file.git
 cd mac-new-file
 bash install.sh
 ```

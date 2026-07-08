@@ -1,0 +1,9 @@
+# 演示素材（大文件，不提交）
+assets/demo-vertical.mp4
+assets/demo-source.mov
+
+# macOS
+.DS_Store
+
+# 打包产物（Release Asset 用，不需要追踪）
+dist/NewFile.workflow.zip

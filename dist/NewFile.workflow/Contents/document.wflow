@@ -177,7 +177,7 @@ OSASCRIPT
 		<key>applicationPaths</key>
 		<array/>
 		<key>inputTypeIdentifier</key>
-		<string>com.apple.Automator.fileSystemObject</string>
+		<string>com.apple.Automator.nothing</string>
 		<key>outputTypeIdentifier</key>
 		<string>com.apple.Automator.nothing</string>
 		<key>presentationMode</key>
@@ -189,7 +189,7 @@ OSASCRIPT
 		<key>serviceApplicationPath</key>
 		<string>/System/Library/CoreServices/Finder.app</string>
 		<key>serviceInputTypeIdentifier</key>
-		<string>com.apple.Automator.fileSystemObject</string>
+		<string>com.apple.Automator.nothing</string>
 		<key>serviceOutputTypeIdentifier</key>
 		<string>com.apple.Automator.nothing</string>
 		<key>serviceProcessesInput</key>

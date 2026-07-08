@@ -14,7 +14,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>新建文件</string>
+				<string>New File</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
@@ -23,7 +23,9 @@
 			<key>NSServiceDescription</key>
 			<string>在当前 Finder 目录快速新建一个空白文本文件</string>
 			<key>NSSendTypes</key>
-			<array/>
+			<array>
+				<string>NSFilenamesPboardType</string>
+			</array>
 			<key>NSReturnTypes</key>
 			<array/>
 		</dict>

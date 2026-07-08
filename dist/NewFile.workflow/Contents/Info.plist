@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.automator.NewFile</string>
+	<key>CFBundleName</key>
+	<string>NewFile</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>NSServices</key>
+	<array>
+		<dict>
+			<key>NSMenuItem</key>
+			<dict>
+				<key>default</key>
+				<string>新建文件</string>
+			</dict>
+			<key>NSMessage</key>
+			<string>runWorkflowAsService</string>
+			<key>NSPortName</key>
+			<string>NewFile</string>
+			<key>NSServiceDescription</key>
+			<string>在当前 Finder 目录快速新建一个空白文本文件</string>
+			<key>NSSendTypes</key>
+			<array/>
+			<key>NSReturnTypes</key>
+			<array/>
+		</dict>
+	</array>
+</dict>
+</plist>
